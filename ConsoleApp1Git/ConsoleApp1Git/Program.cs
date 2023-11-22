@@ -12,7 +12,9 @@ namespace ConsoleApp1Git
         {
             int a =10, b =10;
             Console.WriteLine(a + b);
+            Console.WriteLine(a*b);
             Console.Read();
+
         }
     }
 }
