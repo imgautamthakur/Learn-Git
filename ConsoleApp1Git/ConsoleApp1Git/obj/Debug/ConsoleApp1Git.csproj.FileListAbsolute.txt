@@ -1,0 +1,7 @@
+C:\Users\Gautam Kumar Thakur\LearnGit\ConsoleApp1Git\ConsoleApp1Git\bin\Debug\ConsoleApp1Git.exe.config
+C:\Users\Gautam Kumar Thakur\LearnGit\ConsoleApp1Git\ConsoleApp1Git\bin\Debug\ConsoleApp1Git.exe
+C:\Users\Gautam Kumar Thakur\LearnGit\ConsoleApp1Git\ConsoleApp1Git\bin\Debug\ConsoleApp1Git.pdb
+C:\Users\Gautam Kumar Thakur\LearnGit\ConsoleApp1Git\ConsoleApp1Git\obj\Debug\ConsoleApp1Git.csproj.AssemblyReference.cache
+C:\Users\Gautam Kumar Thakur\LearnGit\ConsoleApp1Git\ConsoleApp1Git\obj\Debug\ConsoleApp1Git.csproj.CoreCompileInputs.cache
+C:\Users\Gautam Kumar Thakur\LearnGit\ConsoleApp1Git\ConsoleApp1Git\obj\Debug\ConsoleApp1Git.exe
+C:\Users\Gautam Kumar Thakur\LearnGit\ConsoleApp1Git\ConsoleApp1Git\obj\Debug\ConsoleApp1Git.pdb
